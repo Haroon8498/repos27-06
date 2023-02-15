@@ -4,5 +4,10 @@ program-id. add.
 environment division.
 data division.
 working-storage section.
-01 a pic 9(1) value 10.
-01 b pic 9(1)
+01 a pic 9(2) value 10.
+01 b pic 9(2) value 30.
+01 c pic 9(2).
+procedure division.
+    Add a to b giving c.
+    display c.
+    stop run.
