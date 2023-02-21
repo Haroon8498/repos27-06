@@ -1,3 +1,13 @@
 this is file1
 line 1 of file
-this is file is used to store health records  
+this is file is used to store health records
+
+
+
+sl.no	p name 	disease		treatment
+1.	samm	fever 		needs to take rest
+2.	peggy	cold		needs to give tablets and vapourisation
+3.	vikky	vomit		needs saline 
+4. 	becky	blood		need to check with doctor
+5.	massi	hand 		needs to consult orthopedic
+		fracture	
