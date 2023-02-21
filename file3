@@ -1,0 +1,10 @@
+//basheer1 job (acct#) ,'basheer1',notify=&sysuid
+//step1 exec pgm=iefbr14
+//sysprint dd sysout=*
+//sysout dd sysout=*
+//dd1 dd dsn=basheer.file1.ps
+//       disp=(new,catlg,delete),
+//       space=(trk (1,1), rlse),
+//       dcb=(recfm=fb,lrecl=80,blksize=800 dsorg=ps)
+/*
+//
